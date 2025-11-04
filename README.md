@@ -16,6 +16,7 @@ The dataset was manually gathered from the Pokemon UK Website. In this observati
 - **Width (2f float)**: Width of plushie in cm
 - **Height (2f float)**: Height of plushie in cm
 - **Length (2f float)**: Length of plushie in cm
+- **Country of Origin (String)**: This is the country where the plush was made.
 - **Plush Category (String)**: Category of the plushie (e.g. Ditto Plush, Spring Plush, Pikachu Plush, Poke Plush, Comfy Friends, Sitting Cuties, Large Plush, Keychains, Pokemon Dolls,, Comfy Cuddlers, Eevee Evolutions, Plush Bags and Hats and Pokemon Squishmallows).
 - **Price (2f float)**: Price of product in British Pounds (£).
 - **Pokemon (String)**: Pokemon Name of the plush
