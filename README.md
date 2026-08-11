@@ -3,7 +3,7 @@
 This project will analyse the Pokemon Plushies line up provided in the Pokemon Centre UK's website to uncover critical insights that will improve Pokemon's commercial success.
 
 Insights and recommendations are provided on the following key areas:
-- **Plush Category Trend**: Which category of Pokemon Plush is positively well recieved. The categories on the website include Ditto Plush, Spring Plush, Pikachu Plush, Poke Plush, Comfy Friends, Sitting Cuties, Large Plush, Keychains, Pokemon Dolls,, Comfy Cuddlers, Eevee Evolutions, Plush Bags and Hats and Pokemon Squishmallows. This would allow us to see which category of plush is well recieved. 
+- **Plush Category Trend**: Which category of Pokemon Plush is positively well recieved. The categories on the website include Ditto Plush, Spring Plush, Pikachu Plush, Poke Plush, Comfy Friends, Sitting Cuties, Large Plush, Keychains, Pokemon Dolls, Comfy Cuddlers, Eevee Evolutions, Plush Bags and Hats and Pokemon Squishmallows. This would allow us to see which category of plush is well recieved. 
 - **Correlation with Review Ratings**: Understanding whether there is a correlation between reviews with factors such as size of plush and price range.
 - **Pokemon & Region Analysis**: Determining which Pokemon's and Region has the highest positive ratings. 
 
@@ -26,3 +26,4 @@ The dataset was manually gathered from the Pokemon UK Website. In this observati
 - **3 star Review (Int)**: Number of 3 star reviews
 - **2 tar Review (Int)**: Number of 2 star reviews
 - **1 star Review (Int)**: Number of 1 star reviews
+
